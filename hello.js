@@ -1,3 +1,3 @@
 console.log('hello world\nHector David');
 
-console.log(':) cambio de prueba-------------------');
+console.log(':) cambio de prueba-------CONFLICT!!-');
